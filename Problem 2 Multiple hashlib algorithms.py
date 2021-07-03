@@ -74,7 +74,7 @@ def choice_hashlib(choice):
 # Driver program
 if __name__ == "__main__":
     print("-----------------------------------------------")
-    print("< 1. md5 > \n< 2. sha256 > \n< 3. sha1 >")
+    print("1. md5 \n2. sha256 \n3. sha1")
     print("-----------------------------------------------")
 
     choice = int(input("Enter The Choice : "))
