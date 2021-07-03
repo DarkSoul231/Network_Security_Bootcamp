@@ -13,4 +13,5 @@ print(f'Hash of || {string} || is : ', hash_object.hexdigest())
 print("-----------------------------------------------")
 
 
-
+# Hashing of << Hello >> String...
+# Using md5 : 8b1a9953c4611296a827abf8c47804d7
