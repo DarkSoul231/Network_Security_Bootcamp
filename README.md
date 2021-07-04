@@ -1,7 +1,7 @@
 # Network Security Bootcamp Problem Solution.
 > This is project files created during the period of ShapeAi Network Security Bootcamp.
 
-> It this problem solutions we add extra layer of Encryption to the user input using Python Built in Library hashlib. 
+> It this problem solutions we add extra layer of Encryption to the user input using ```Python``` Built in Library ```hashlib```. 
 In it we use various hashing algorithm of ```haslib``` library to protect data.
 We also use ```SALTING``` and ```ITERATION``` Techniques to enhance the Encryption of Data.
 
