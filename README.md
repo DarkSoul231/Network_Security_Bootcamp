@@ -1,5 +1,5 @@
-# Network Security Bootcamp Problem Solution.
-> This is project files created during Network Security Bootcamp.
+# Hasing And Salting Using Python Encryption Techniques.
+
 
 > It this problem solutions we add extra layer of Encryption to the user input using ```Python``` Built in Library ```hashlib```. 
 In it we use various hashing algorithm of ```haslib``` library to protect data.
